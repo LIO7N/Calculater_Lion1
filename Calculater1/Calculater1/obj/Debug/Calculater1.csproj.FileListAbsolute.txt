@@ -1,0 +1,12 @@
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\bin\Debug\Calculater1.exe.config
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\bin\Debug\Calculater1.exe
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\bin\Debug\Calculater1.pdb
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\bin\Debug\Guna.UI2.dll
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.csproj.AssemblyReference.cache
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.Form1.resources
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.Properties.Resources.resources
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.csproj.GenerateResource.cache
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.csproj.CoreCompileInputs.cache
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculat.696DD589.Up2Date
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.exe
+C:\Users\nhaj3\source\repos\Calculater1\Calculater1\obj\Debug\Calculater1.pdb
